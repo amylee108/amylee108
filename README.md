@@ -5,7 +5,7 @@
 ----------------------
 
 ### Project - Automate Excel (September 2021)
-#### Doing mundane, repetitive tasks through Excel could be time-consuming, wasteful of resources, and can allow for more error. By automating the creating of pivot tables through Python code, we are able to automate the process required to manually discipher and analyze data. To view resulting pivot table and data, download 'reported.xlsx'.
+#### Doing mundane, repetitive tasks through Excel could be time-consuming, wasteful of resources, and can allow for more error. By automating the creating of pivot tables through Python code, we are able to automate the process required to manually discipher and analyze data. To view resulting pivot table and data, please download 'reported.xlsx'.
 
 Language: Python
 

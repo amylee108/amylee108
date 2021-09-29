@@ -9,3 +9,9 @@
 
 Language: Python
 
+----------------
+
+### Project - Web Scraping Using R
+##### Manually inputting data is time-consuming and could allow for more human error. In this project, I scraped titles, prices, availability, and images of books on a book website, created a dataframe from the information collected, and presented it in a clean table. 
+
+Language: R

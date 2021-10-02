@@ -22,4 +22,6 @@ Language: R
 
 #### Visualization data through Tableau can be a powerful tool in conveying various trends, messages, and patterns in the data. This project was based on New York City Property sales and shows various aspects of NYC property sales history, such as aggreagate sales by year, valuation of different types of buildings, and more.
 
+#### Data Source: https://www.kaggle.com/new-york-city/nyc-property-sales
+
 Platform: Tableau

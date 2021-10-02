@@ -15,3 +15,11 @@ Language: Python
 ##### Manually inputting data is time-consuming and could allow for more human error. In this project, I scraped titles, prices, availability, and images of books on a book website, created a dataframe from the information collected, and presented it in a clean table. 
 
 Language: R
+
+--------------
+
+### Project - Generating Tableau Reports (October 2021)
+
+#### Visualization data through Tableau can be a powerful tool in conveying various trends, messages, and patterns in the data. This project was based on New York City Property sales and shows various aspects of NYC property sales history, such as aggreagate sales by year, valuation of different types of buildings, and more.
+
+Platform: Tableau
